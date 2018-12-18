@@ -2,7 +2,7 @@ body {
     background: url(wooden.jpg);
 }
 
-h1 {font-family: Palatino, 'Palatino Linotype', 
+.h1 {font-family: Palatino, 'Palatino Linotype', 
 	serif font size: 40px;
 	color:inverted;
 }
