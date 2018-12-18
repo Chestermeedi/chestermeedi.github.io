@@ -1,20 +1,7 @@
 body {
-    background: url(Wooden.jpg);
+    background: url(https://storage.googleapis.com/webdesignledger.pub.network/LaT/edd/2016/02/subtle-light-grunge-texture-23-780x1040.jpg);
 }
 
 h1 {font-family= Palatino, 'Palatino Linotype', 
 	serif font size: 40px;
 }
-
-#button {
-	margin-left: 40%;
-	margin-right: 40%;
-	background-color: #213862;
-
-	border-radius: 15px;
-	height: 100px;
-}
-    
-#content-contact {
-	font= Charm, cursive;
-}  
