@@ -2,7 +2,8 @@ body{
   background-image:url("https://previews.123rf.com/images/titco/titco1706/titco170600735/80545384-white-organic-wood-texture-light-wooden-background-old-washed-wood-.jpg");
  }
 
-h1 {font-family: 'Lobster', cursive;
+h1 {
+  font-family: 'Lobster', cursive;
   color: blue;
   
 }
